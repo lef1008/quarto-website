@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My full name is Ignatius Fauci Fortenberry, III. Mostly I go by Iggy (except when I am in trouble). I am a 2-year old schnauzer/black lab mix. I live with my sister (Sadie) and my brother (Hank). I love to eat, sleep, and walk. My favorite people are: anyone with treats, the postal delivery person, the Amazon delivery person, the UPS delivery person, and Goldy. In my spare time I enjoy pulling the stuffing out of toys and dribbling water all over the house."
+    "text": "My overarching research interest relates to the dynamics of discourse– how different aspects of language fluctuate over time. Basically, much of my research examines how linguistic properties in text or spoken discourse change across time.\nExamples of discourse contexts I’ve researched: groupchats between students in an ed tech platform, lyrics, Trader Joe’s product reviews, books from Project Gutenberg, movie script dialogues, subreddit discussion, reflective/informal writing, interactions between strangers over Zoom, think-alouds produced during reading, and March Madness press conference transcripts\nExamples of linguistic features I’ve examined: sentiment, cohesion, swearing, reflection/metacognition, sourcing, topics/semantic spaces, academic language, bursts/pauses in keystrokes, gendered language, turn-taking"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\nPuppy Kindergarten Level 2, Pet Smart | Richfield, MN Certificate in Walking | Oct. 2021\nPuppy Kindergarten Level 1, Pet Smart | Richfield, MN Certificate in Listening | Sept. 2021"
+    "text": "Education\nDoctor of Philosophy, Educational Psychology | University of Minnesota Mentor: Laura Allen, Ph.D. | Anticipated May 2026\nMaster of Arts, Psychology | University of New Hampshire Mentor: Laura Allen, Ph.D. | 2022\nBachelor of Arts, Psychology and Human Development & Family Studies | University of New Hampshire Mentor: Caitlin Mills, Ph.D. | 2020"
   },
   {
     "objectID": "about.html#references",
@@ -26,5 +26,54 @@
     "title": "About",
     "section": "References",
     "text": "References\nHank | Chief Barking Scientist | Three Bark Manor\nSadie | Naptime Engineer | Three Bark Manor"
+  },
+  {
+    "objectID": "about.html#research-experience",
+    "href": "about.html#research-experience",
+    "title": "About",
+    "section": "Research Experience",
+    "text": "Research Experience\n2022-current | Graduate Research Assistant | Department of Educational Psychology, University of Minnesota\n2020-2022 | Graduate Teaching Assistant | Department of Psychology, University of New Hampshire\n2018-2020 | Undergraduate Research Assistant | Department of Psychology, University of New Hampshire"
+  },
+  {
+    "objectID": "about.html#teachingmentoring-experience",
+    "href": "about.html#teachingmentoring-experience",
+    "title": "About",
+    "section": "Teaching/Mentoring Experience",
+    "text": "Teaching/Mentoring Experience\nSpring 2022 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire\nSpring 2022 | Teaching Assistant | Class: Neurobiology Laboratory II | Professor: Elizabeth Caldwell, Ph.D. | University of New Hampshire\nFall 2021 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire\nSpring 2021 | Teaching Assistant | Class: Psychology of Crime and Justice | Professor: Ellen Cohen, Ph.D. | University of New Hampshire\nSpring 2021 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire\nFall 2020 | Teaching Assistant | Class: Psychology and Law | Professor: Ellen Cohen, Ph.D. | University of New Hampshire\nFall 2020 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire\n2017-2020 | Academic Peer Mentor | Center for Academic Resources | Supervisor: Daniela Adler, M.Ed. | University of New Hampshire"
+  },
+  {
+    "objectID": "about.html#professional-societies",
+    "href": "about.html#professional-societies",
+    "title": "About",
+    "section": "Professional Societies",
+    "text": "Professional Societies\n2023-present | American Educational Research Association (AERA) 2021-present | Society of Text & Discourse (ST&D) 2021-present | Society for Learning Analytics Research (SoLAR) 2021-present | American Psychological Association (APA) 2021-present | American Psychological Association of Graduate Students 2020-present | Psychonomic Society 2020-present | Society for Computation in Psychology (SCiP) 2020 | Phi Beta Kappa- Academic Honor Society 2019-2020 | Society for the Neuroscience of Creativity"
+  },
+  {
+    "objectID": "about.html#reviewing-experience",
+    "href": "about.html#reviewing-experience",
+    "title": "About",
+    "section": "Reviewing Experience",
+    "text": "Reviewing Experience\n2025 | Educational Data Mining (EDM) conference 2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference 2024 | American Educational Research Association (AERA) conference 2023 | Human-Computer Interaction (CHI) conference 2023 | Sub-reviewer for British Journal of Educational Technology (BJET) 2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee 2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference 2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference"
+  },
+  {
+    "objectID": "about.html#professional-services-development",
+    "href": "about.html#professional-services-development",
+    "title": "About",
+    "section": "Professional Services & Development",
+    "text": "Professional Services & Development\n2023 | Conference Volunteer | Psychonomic Society’s 64th Annual Meeting | San Francisco, CA\n2022-current | Learning Informatics Lab (LIL) Member | University of Minnesota\n2021 | Learning Analytics Summer Institutes (LASI) | Organized by the Society of Learning Analytics Research (SoLAR) | Virtual\n2021 | Conference Volunteer | 22nd Int. Conference on Artificial Intelligence in Education (AIED) | Virtual\n2020 | Conference Volunteer | Mind Wandering Symposium | Boston, MA | CANCELED DUE TO COVID"
+  },
+  {
+    "objectID": "about.html#reviewing-experience-1",
+    "href": "about.html#reviewing-experience-1",
+    "title": "About",
+    "section": "Reviewing Experience",
+    "text": "Reviewing Experience\n2025 | Educational Data Mining (EDM) conference 2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference 2024 | American Educational Research Association (AERA) conference 2023 | Human-Computer Interaction (CHI) conference 2023 | Sub-reviewer for British Journal of Educational Technology (BJET) 2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee 2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference 2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference"
+  },
+  {
+    "objectID": "about.html#awards",
+    "href": "about.html#awards",
+    "title": "About",
+    "section": "Awards",
+    "text": "Awards\n2025 | Student travel grants for Winter Text & Discourse | Award to pay towards travel for conference in Boulder, CO\n2024 | Society of Text & Discourse (ST&D) Student Travel Award | Award to pay towards travel for annual conference in Chicago, IL\n2023 | Learning Informatics Lab (LIL) Summer Fellow | Student fellowship collaborating with 2+ LIL members on new project\n2023 | Society of Text & Discourse (ST&D) Student Travel Award | Award to pay towards travel for annual conference in Oslo, Norway\n2021 | Erik Duval Travel Scholarship | Scholarship established to assist students in attending and participating in intensive workshops at the Learning Analytics Summer Institute (LASI)"
   }
 ]

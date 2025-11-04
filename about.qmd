@@ -2,19 +2,117 @@
 title: "About"
 ---
 
-My full name is Ignatius Fauci Fortenberry, III. Mostly I go by Iggy (except when I am in trouble). I am a 2-year old schnauzer/black lab mix. I live with my sister (Sadie) and my brother (Hank). I love to eat, sleep, and walk. My favorite people are: anyone with treats, the postal delivery person, the Amazon delivery person, the UPS delivery person, and Goldy. In my spare time I enjoy pulling the stuffing out of toys and dribbling water all over the house.
+My overarching research interest relates to the dynamics of discourse-- how different aspects of language fluctuate over time. Basically, much of my research examines how linguistic properties in text or spoken discourse change across time.
+
+Examples of discourse contexts I've researched: groupchats between students in an ed tech platform, lyrics, Trader Joe's product reviews, books from Project Gutenberg, movie script dialogues, subreddit discussion, reflective/informal writing, interactions between strangers over Zoom, think-alouds produced during reading, and March Madness press conference transcripts
+
+Examples of linguistic features I've examined: sentiment, cohesion, swearing, reflection/metacognition, sourcing, topics/semantic spaces, academic language, bursts/pauses in keystrokes, gendered language, turn-taking
+
 
 ## Education
 
-Puppy Kindergarten Level 2, [Pet Smart](https://www.petsmart.com/) | Richfield, MN
-Certificate in Walking | Oct. 2021
+Doctor of Philosophy, Educational Psychology | University of Minnesota
+Mentor: Laura Allen, Ph.D. | Anticipated May 2026
 
-Puppy Kindergarten Level 1, [Pet Smart](https://www.petsmart.com/) | Richfield, MN
-Certificate in Listening | Sept. 2021
+Master of Arts, Psychology | University of New Hampshire
+Mentor: Laura Allen, Ph.D. | 2022
+
+Bachelor of Arts, Psychology and Human Development & Family Studies | University of New Hampshire
+Mentor: Caitlin Mills, Ph.D. | 2020
 
 
-## References
+## Research Experience
 
-Hank | Chief Barking Scientist | Three Bark Manor
+2022-current | Graduate Research Assistant | Department of Educational Psychology, University of Minnesota
 
-[Sadie](https://sadie-dog.netlify.app/) | Naptime Engineer | Three Bark Manor
+2020-2022 | Graduate Teaching Assistant | Department of Psychology, University of New Hampshire
+
+2018-2020 | Undergraduate Research Assistant | Department of Psychology, University of New Hampshire
+
+
+## Teaching/Mentoring Experience
+
+Spring 2022 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire
+
+Spring 2022 | Teaching Assistant | Class: Neurobiology Laboratory II | Professor: Elizabeth Caldwell, Ph.D. | University of New Hampshire
+
+Fall 2021 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire
+
+Spring 2021 | Teaching Assistant | Class: Psychology of Crime and Justice | Professor: Ellen Cohen, Ph.D. | University of New Hampshire
+
+Spring 2021 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire
+
+Fall 2020 | Teaching Assistant | Class: Psychology and Law | Professor: Ellen Cohen, Ph.D. | University of New Hampshire
+
+Fall 2020 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire
+
+2017-2020 | Academic Peer Mentor | Center for Academic Resources | Supervisor: Daniela Adler, M.Ed. | University of New Hampshire
+
+
+## Professional Societies
+
+2023-present | American Educational Research Association (AERA)
+2021-present | Society of Text & Discourse (ST&D)
+2021-present | Society for Learning Analytics Research (SoLAR)
+2021-present | American Psychological Association (APA)
+2021-present | American Psychological Association of Graduate Students
+2020-present | Psychonomic Society
+2020-present | Society for Computation in Psychology (SCiP)
+2020 | Phi Beta Kappa- Academic Honor Society
+2019-2020	 | Society for the Neuroscience of Creativity
+
+
+## Reviewing Experience
+
+2025 | Educational Data Mining (EDM) conference
+2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference
+2024 | American Educational Research Association (AERA) conference
+2023 | Human-Computer Interaction (CHI) conference
+2023 | Sub-reviewer for British Journal of Educational Technology (BJET)
+2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee
+2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference
+2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference
+
+
+## Professional Services & Development
+
+2023 | Conference Volunteer | Psychonomic Society's 64th Annual Meeting | San Francisco, CA
+
+2022-current | Learning Informatics Lab (LIL) Member | University of Minnesota
+
+2021 | Learning Analytics Summer Institutes (LASI) | Organized by the Society of Learning Analytics Research (SoLAR) | Virtual
+
+2021 | Conference Volunteer | 22nd Int. Conference on Artificial Intelligence in Education (AIED) | Virtual
+
+2020 | Conference Volunteer | Mind Wandering Symposium | Boston, MA | CANCELED DUE TO COVID
+
+
+## Reviewing Experience
+
+2025 | Educational Data Mining (EDM) conference
+2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference
+2024 | American Educational Research Association (AERA) conference
+2023 | Human-Computer Interaction (CHI) conference
+2023 | Sub-reviewer for British Journal of Educational Technology (BJET)
+2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee
+2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference
+2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference
+
+
+## Awards
+
+2025 | Student travel grants for Winter Text & Discourse | Award to pay towards travel for conference in Boulder, CO
+
+2024 | Society of Text & Discourse (ST&D) Student Travel Award | Award to pay towards travel for annual conference in Chicago, IL
+
+2023 | Learning Informatics Lab (LIL) Summer Fellow | Student fellowship collaborating with 2+ LIL members on new project
+
+2023 | Society of Text & Discourse (ST&D) Student Travel Award | Award to pay towards travel for annual conference in Oslo, Norway
+
+2021 | Erik Duval Travel Scholarship | Scholarship established to assist students in attending and participating in intensive workshops at the Learning Analytics Summer Institute (LASI)
+
+
+
+
+
+
