@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "title of website"
+  title: "Lauren E. Flynn"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: publications.qmd
+
 
 format:
   html:
     theme: 
-      - cosmo
-      - "assets/theme.scss"
+      - pulse
     header-includes: |
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

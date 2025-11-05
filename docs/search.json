@@ -53,7 +53,7 @@
     "href": "about.html#reviewing-experience",
     "title": "About",
     "section": "Reviewing Experience",
-    "text": "Reviewing Experience\n2025 | Educational Data Mining (EDM) conference 2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference 2024 | American Educational Research Association (AERA) conference 2023 | Human-Computer Interaction (CHI) conference 2023 | Sub-reviewer for British Journal of Educational Technology (BJET) 2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee 2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference 2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference"
+    "text": "Reviewing Experience\n2025 | Educational Data Mining (EDM) conference\n2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference\n2024 | American Educational Research Association (AERA) conference\n2023 | Human-Computer Interaction (CHI) conference\n2023 | Sub-reviewer for British Journal of Educational Technology (BJET)\n2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee\n2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference\n2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference"
   },
   {
     "objectID": "about.html#professional-services-development",
@@ -67,7 +67,7 @@
     "href": "about.html#reviewing-experience-1",
     "title": "About",
     "section": "Reviewing Experience",
-    "text": "Reviewing Experience\n2025 | Educational Data Mining (EDM) conference 2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference 2024 | American Educational Research Association (AERA) conference 2023 | Human-Computer Interaction (CHI) conference 2023 | Sub-reviewer for British Journal of Educational Technology (BJET) 2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee 2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference 2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference"
+    "text": "Reviewing Experience\n2025 | Educational Data Mining (EDM) conference\n2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference\n2024 | American Educational Research Association (AERA) conference\n2023 | Human-Computer Interaction (CHI) conference\n2023 | Sub-reviewer for British Journal of Educational Technology (BJET)\n2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee\n2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference\n2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference"
   },
   {
     "objectID": "about.html#awards",
@@ -75,5 +75,82 @@
     "title": "About",
     "section": "Awards",
     "text": "Awards\n2025 | Student travel grants for Winter Text & Discourse | Award to pay towards travel for conference in Boulder, CO\n2024 | Society of Text & Discourse (ST&D) Student Travel Award | Award to pay towards travel for annual conference in Chicago, IL\n2023 | Learning Informatics Lab (LIL) Summer Fellow | Student fellowship collaborating with 2+ LIL members on new project\n2023 | Society of Text & Discourse (ST&D) Student Travel Award | Award to pay towards travel for annual conference in Oslo, Norway\n2021 | Erik Duval Travel Scholarship | Scholarship established to assist students in attending and participating in intensive workshops at the Learning Analytics Summer Institute (LASI)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Flynn, L. E., & Allen, L. K. (2025). Disentangling the Influences of Creativity and Verbal Fluency on Writing. Journal of Learning Analytics, 12(2), 67–82. https://doi.org/10.18608/jla.2025.8857 🆕🎨📝\nAllen, L. K., Öncel, P., & Flynn, L. E. (2024). Expanding AWE to Incorporate Reading and Writing Evaluation. In M. D. Shermis & J. Wilson (Eds.), The Routledge International Handbook of Automated Essay Evaluation (3rd ed., pp. 573–587). Taylor & Francis. https://doi.org/10.4324/9781003397618-33 📖💭📝\nKuvar, V. K., Flynn, L. E., Allen, L. K., & Mills, C. S. (2023, July 5). Partner keystrokes can predict attentional states during chat-based conversations. Proceedings of the 16th International Conference on Educational Data Mining. EDM2023, Bengaluru, India. https://doi.org/10.5281/ZENODO.8115697 ⌨️🧠💬💍\nIrving, Z. C., McGrath, C., Flynn, L., Glasser, A., & Mills, C. (2022). The shower effect: Mind wandering facilitates creative incubation during moderately engaging activities. Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000516 🚿🧠🎨💍\nMagliano, J. P., Flynn, L., Feller, D. P., McCarthy, K. S., McNamara, D. S., & Allen, L. (2022). Leveraging a multidimensional linguistic analysis of constructed responses produced by college readers. Frontiers in Psychology, 13. https://www.frontiersin.org/articles/10.3389/fpsyg.2022.936162 📖💭📝🤖\nWong, A. Y., Smith, S. L., McGrath, C. A., Flynn, L. E., & Mills, C. (2022). Task-unrelated thought during educational activities: A meta-analysis of its occurrence and relationship with learning. Contemporary Educational Psychology, 71, 102098. https://doi.org/10.1016/j.cedpsych.2022.102098 🧠🏫⏪\nFlynn, L. E., McNamara, D. S., McCarthy, K. S., Magliano, J. P., & Allen, L. K. (2021). The appearance of coherence: Using cohesive properties of readers’ constructed responses to predict individual differences. Revista Signos, 54(107), 1061–1088. https://doi.org/10.4067/S0718-09342021000301061 📖📝🧩\nÖncel, P., Flynn, L. E., Sonia, A. N., Barker, K. E., Lindsay, G. C., McClure, C. M., McNamara, D. S., & Allen, L. K. (2021). Automatic student writing evaluation: Investigating the impact of individual differences on source-based writing. In LAK21: 11th International Learning Analytics and Knowledge Conference (pp. 620–625). Association for Computing Machinery. https://doi.org/10.1145/3448139.3448207 📝🪪📑"
+  },
+  {
+    "objectID": "publications.html#education",
+    "href": "publications.html#education",
+    "title": "Publications",
+    "section": "Education",
+    "text": "Education\nDoctor of Philosophy, Educational Psychology | University of Minnesota Mentor: Laura Allen, Ph.D. | Anticipated May 2026\nMaster of Arts, Psychology | University of New Hampshire Mentor: Laura Allen, Ph.D. | 2022\nBachelor of Arts, Psychology and Human Development & Family Studies | University of New Hampshire Mentor: Caitlin Mills, Ph.D. | 2020"
+  },
+  {
+    "objectID": "publications.html#research-experience",
+    "href": "publications.html#research-experience",
+    "title": "Publications",
+    "section": "Research Experience",
+    "text": "Research Experience\n2022-current | Graduate Research Assistant | Department of Educational Psychology, University of Minnesota\n2020-2022 | Graduate Teaching Assistant | Department of Psychology, University of New Hampshire\n2018-2020 | Undergraduate Research Assistant | Department of Psychology, University of New Hampshire"
+  },
+  {
+    "objectID": "publications.html#teachingmentoring-experience",
+    "href": "publications.html#teachingmentoring-experience",
+    "title": "Publications",
+    "section": "Teaching/Mentoring Experience",
+    "text": "Teaching/Mentoring Experience\nSpring 2022 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire\nSpring 2022 | Teaching Assistant | Class: Neurobiology Laboratory II | Professor: Elizabeth Caldwell, Ph.D. | University of New Hampshire\nFall 2021 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire\nSpring 2021 | Teaching Assistant | Class: Psychology of Crime and Justice | Professor: Ellen Cohen, Ph.D. | University of New Hampshire\nSpring 2021 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire\nFall 2020 | Teaching Assistant | Class: Psychology and Law | Professor: Ellen Cohen, Ph.D. | University of New Hampshire\nFall 2020 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire\n2017-2020 | Academic Peer Mentor | Center for Academic Resources | Supervisor: Daniela Adler, M.Ed. | University of New Hampshire"
+  },
+  {
+    "objectID": "publications.html#professional-societies",
+    "href": "publications.html#professional-societies",
+    "title": "Publications",
+    "section": "Professional Societies",
+    "text": "Professional Societies\n2023-present | American Educational Research Association (AERA)\n2021-present | Society of Text & Discourse (ST&D)\n2021-present | Society for Learning Analytics Research (SoLAR)\n2021-present | American Psychological Association (APA)\n2021-present | American Psychological Association of Graduate Students\n2020-present | Psychonomic Society\n2020-present | Society for Computation in Psychology (SCiP)\n2020 | Phi Beta Kappa- Academic Honor Society\n2019-2020 | Society for the Neuroscience of Creativity"
+  },
+  {
+    "objectID": "publications.html#reviewing-experience",
+    "href": "publications.html#reviewing-experience",
+    "title": "Publications",
+    "section": "Reviewing Experience",
+    "text": "Reviewing Experience\n2025 | Educational Data Mining (EDM) conference\n2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference\n2024 | American Educational Research Association (AERA) conference\n2023 | Human-Computer Interaction (CHI) conference\n2023 | Sub-reviewer for British Journal of Educational Technology (BJET)\n2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee\n2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference\n2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference"
+  },
+  {
+    "objectID": "publications.html#professional-services-development",
+    "href": "publications.html#professional-services-development",
+    "title": "Publications",
+    "section": "Professional Services & Development",
+    "text": "Professional Services & Development\n2023 | Conference Volunteer | Psychonomic Society’s 64th Annual Meeting | San Francisco, CA\n2022-current | Learning Informatics Lab (LIL) Member | University of Minnesota\n2021 | Learning Analytics Summer Institutes (LASI) | Organized by the Society of Learning Analytics Research (SoLAR) | Virtual\n2021 | Conference Volunteer | 22nd Int. Conference on Artificial Intelligence in Education (AIED) | Virtual\n2020 | Conference Volunteer | Mind Wandering Symposium | Boston, MA | CANCELED DUE TO COVID"
+  },
+  {
+    "objectID": "publications.html#reviewing-experience-1",
+    "href": "publications.html#reviewing-experience-1",
+    "title": "Publications",
+    "section": "Reviewing Experience",
+    "text": "Reviewing Experience\n2025 | Educational Data Mining (EDM) conference\n2024 | Sub-reviewer for Society of Text & Discourse (ST&D) conference\n2024 | American Educational Research Association (AERA) conference\n2023 | Human-Computer Interaction (CHI) conference\n2023 | Sub-reviewer for British Journal of Educational Technology (BJET)\n2023 | Council of Graduate Students (COGS) Reviewer on Spring Grants Committee\n2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference\n2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference"
+  },
+  {
+    "objectID": "publications.html#awards",
+    "href": "publications.html#awards",
+    "title": "Publications",
+    "section": "Awards",
+    "text": "Awards\n2025 | Student travel grants for Winter Text & Discourse | Award to pay towards travel for conference in Boulder, CO\n2024 | Society of Text & Discourse (ST&D) Student Travel Award | Award to pay towards travel for annual conference in Chicago, IL\n2023 | Learning Informatics Lab (LIL) Summer Fellow | Student fellowship collaborating with 2+ LIL members on new project\n2023 | Society of Text & Discourse (ST&D) Student Travel Award | Award to pay towards travel for annual conference in Oslo, Norway\n2021 | Erik Duval Travel Scholarship | Scholarship established to assist students in attending and participating in intensive workshops at the Learning Analytics Summer Institute (LASI)"
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\nFlynn, L. E., & Allen, L. K. (2024, November). Disentangling the Influences of Creativity and Verbal Fluency on Writing [Conference presentation]. 54th Annual Meeting of the Society for Computation in Psychology (SCiP), New York, NY.\nFlynn, L. E., & Allen, L. K. (2024, June). Swearing in the Spotlight: A Social Network Approach to Examine Patterns in Movie Characters’ Taboo Language Use [Conference presentation]. 34th Annual Meeting of the Society for Text and Discourse, Chicago, IL.\nAthilat, V., Allen, L. K., Harpster, K. G., Öncel, P., Flynn, L. E., Watanabe, M., & McNamara, D. S. (2024, June). The Influence of Source Familiarity on Judgments of Misconception Accuracy [Poster presentation]. 34th Annual Meeting of the Society for Text and Discourse, Chicago, IL.\nFlynn, L. E., McCarthy, K. S., Magliano, J. P., McNamara, D. S., & Allen, L. K. (2024, April). The Multiple Sources of Coherence: How Prompt Timing Influences Students’ Multiple Documents Sourcing Behaviors. American Educational Research Association Conference, Philadelphia, PA.\nFlynn, L. E., & Allen, L. K. (2023, November). Context Fucking Matters: An Investigation into the Dynamic Factors of Swearing in Movie Dialogue [Conference presentation]. Society for Computation in Psychology (SCiP), San Francisco, CA.\nFlynn, L. E., & Allen, L. K. (2023, June). When Are We Going? The Dynamics of Tense Across Genres [Conference presentation]. 33rd Annual Meeting of the Society for Text and Discourse, Oslo, Norway.\nFlynn, L. E., Magliano, J. P., McCarthy, K. S., McNamara, D. S., & Allen, L. K. (2022, November). How Linguistics of Mental Model Construction Predict Overall Text Comprehension [Conference presentation]. Society for Computation in Psychology, Boston, MA.\nFlynn, L. E., & Allen, L. K. (2022, August). Conversational Cohesion Across Contexts. 32nd Annual Meeting of the Society for Text & Discourse. Annual Meeting of the Society for Text & Discourse, Online.\nFlynn, L. E., Magliano, J. P., McCarthy, K. S., McNamara, D. S., & Allen, L. K. (2021, August). Predicting cohesive comprehension based on individual differences and genre effects. 31st Annual Meeting of the Society for Text & Discourse. Annual Meeting of the Society for Text & Discourse, Online."
+  },
+  {
+    "objectID": "publications.html#poster-presentations",
+    "href": "publications.html#poster-presentations",
+    "title": "Publications",
+    "section": "Poster Presentations",
+    "text": "Poster Presentations\nFlynn, L. E., & Allen, L. K. (2025, March). Shift Happens: A Review of Topic Change During Conversation [Poster presentation]. Graduate Student Research Day, Minneapolis, Minnesota.\nFlynn, L. E., & Allen, L. K. (2025, February). A Review of Topic Change During Communication [Poster presentation]. Winter Text & Discourse (WT&D) Conference, Boulder, Colorado.\nFlynn, L. E., & Allen, L. K. (2024, March). Rated-R Language: Contextual Factors of Taboo Word Use Within Fictional Movies Using Networks [Poster presentation]. Graduate Student Research Day, Minneapolis, Minnesota.\nFlynn, L. E., Allen, L. K., McCarthy, K. S., Magliano, J. P., & McNamara, D. S. (2023, November). Source Use in Multiple Document Comprehension Contexts [Poster presentation]. Psychonomic Society’s 64th Annual Meeting, San Francisco, CA.\nFlynn, L. E., Allen, L. K., McCarthy, K. S., Magliano, J. P., & McNamara, D. S. (2023, June). Triangulating Data Sources in Multiple Document Comprehension Tasks [Poster presentation]. 33rd Annual Meeting of the Society for Text and Discourse, Oslo, Norway.\nHarpster, K. G., Öncel, P., Flynn, L. E., & Allen, L. K. (2023, April). A closer look into exploring misinformation through a Twitter simulation. Poster presented at the annual University of New Hampshire Undergraduate Research Conference, Durham, NH.\nAllen, L. K., Flynn, L. E., & McNamara, D. S. (2023, April). Leveraging Natural Language Processing to Uncover Comprehension Processes in Constructed Responses [Poster presentation]. Poster presented at the American Educational Research Association Conference, Chicago, IL.\nFlynn, L. E., McNamara, D. S., & Allen, L. K. (2023, April). Analytic Methods for Analyzing Expert Coded and Computationally Processed Data from Constructed Responses [Poster presentation]. Poster presented at the American Educational Research Association Conference, Chicago, IL.\nMagliano, J. P., Flynn, L. E., Allen, L. K., McCarthy, K. S., & McNamara, D. S. (2023, April). Relations between Cohesion in Constructed Responses and Individual Differences in Reading Literacy Skills [Poster presentation]. Poster presented at the American Educational Research Association Conference, Chicago, IL.\nFlynn, L. E., & Allen, L. K. (2023, March). How did we get here? The dynamics of reflection across genres [Poster presentation]. Graduate Student Research Day, Minneapolis, Minnesota.\nFlynn, L. E., Magliano, J. P., McCarthy, K. S., McNamara, D. S., & Allen, L. K. (2022, November). Leveraging A Multidimensional Linguistic Analysis of Constructed Responses Produced by College Readers [Poster presentation]. Poster presented at the 63rd Annual Meeting of The Psychonomic Society, Boston, MA.\nKislevitz, C., Luckern, E., Allen, L. K., & Flynn, L. E. (2022, April). The theme of self integrated in children’s books across time. Poster presented at the annual University of New Hampshire Undergraduate Research Conference, Durham, NH.\nFlynn, L. E., & Allen, L. K. (2021, November). Examining the Link Between the Cohesion of Individuals’ Language and Creativity [Poster presentation]. Poster presented at the 62nd Annual Meeting of The Psychonomic Society, Virtual.\nFlynn, L. E., McGrath, C. A., & Mills, C. S. (2020, April). Boring ideas: Exploring boredom as an incubator to creativity. Poster presented at the annual University of New Hampshire Undergraduate Research Conference, Online.\nMcGrath, C. A., Flynn, L. E., & Mills C. S. (2020, March). Boring ideas: Exploring the effects of boredom on creative idea generation and uniqueness. Poster presented at the 6th Annual Meeting of the Society for the Neuroscience of Creativity, Online [Canceled due to Covid].\nFlynn, L. E., Nordstrom, H., Baker, M., Waterman, E., & Edwards, K. (2019, April). Examining the association of norms, bystander action, and refusal skills with gender-based violence, problem drinking, and other health outcomes among college students. Poster presented at the annual University of New Hampshire Undergraduate Research Conference, Durham, NH."
   }
 ]

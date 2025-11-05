@@ -4,9 +4,10 @@ title: "About"
 
 My overarching research interest relates to the dynamics of discourse-- how different aspects of language fluctuate over time. Basically, much of my research examines how linguistic properties in text or spoken discourse change across time.
 
-Examples of discourse contexts I've researched: groupchats between students in an ed tech platform, lyrics, Trader Joe's product reviews, books from Project Gutenberg, movie script dialogues, subreddit discussion, reflective/informal writing, interactions between strangers over Zoom, think-alouds produced during reading, and March Madness press conference transcripts
+**Examples of discourse contexts I've researched:** groupchats between students in an ed tech platform, lyrics, Trader Joe's product reviews, books from Project Gutenberg, movie script dialogues, subreddit discussion, reflective/informal writing, interactions between strangers over Zoom, think-alouds produced during reading, and March Madness press conference transcripts
 
-Examples of linguistic features I've examined: sentiment, cohesion, swearing, reflection/metacognition, sourcing, topics/semantic spaces, academic language, bursts/pauses in keystrokes, gendered language, turn-taking
+**Examples of linguistic features I've examined:** sentiment, cohesion, swearing, reflection/metacognition, sourcing, topics/semantic spaces, academic language, bursts/pauses in keystrokes, gendered language, turn-taking
+
 
 
 ## Education
@@ -21,6 +22,7 @@ Bachelor of Arts, Psychology and Human Development & Family Studies | University
 Mentor: Caitlin Mills, Ph.D. | 2020
 
 
+
 ## Research Experience
 
 2022-current | Graduate Research Assistant | Department of Educational Psychology, University of Minnesota
@@ -28,6 +30,7 @@ Mentor: Caitlin Mills, Ph.D. | 2020
 2020-2022 | Graduate Teaching Assistant | Department of Psychology, University of New Hampshire
 
 2018-2020 | Undergraduate Research Assistant | Department of Psychology, University of New Hampshire
+
 
 
 ## Teaching/Mentoring Experience
@@ -47,6 +50,7 @@ Fall 2020 | Teaching Assistant | Class: Psychology and Law | Professor: Ellen Co
 Fall 2020 | Teaching Assistant | Class: Psychology of Language | Professor: Laura Allen, Ph.D. | University of New Hampshire
 
 2017-2020 | Academic Peer Mentor | Center for Academic Resources | Supervisor: Daniela Adler, M.Ed. | University of New Hampshire
+
 
 
 ## Professional Societies
@@ -70,6 +74,7 @@ Fall 2020 | Teaching Assistant | Class: Psychology of Language | Professor: Laur
 2019-2020	 | Society for the Neuroscience of Creativity  
 
 
+
 ## Reviewing Experience
 
 2025 | Educational Data Mining (EDM) conference
@@ -87,6 +92,7 @@ Fall 2020 | Teaching Assistant | Class: Psychology of Language | Professor: Laur
 2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference
 
 2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference
+
 
 
 ## Professional Services & Development
@@ -102,6 +108,7 @@ Fall 2020 | Teaching Assistant | Class: Psychology of Language | Professor: Laur
 2020 | Conference Volunteer | Mind Wandering Symposium | Boston, MA | CANCELED DUE TO COVID
 
 
+
 ## Reviewing Experience
 
 2025 | Educational Data Mining (EDM) conference
@@ -119,6 +126,7 @@ Fall 2020 | Teaching Assistant | Class: Psychology of Language | Professor: Laur
 2023 | Sub-reviewer for Artificial Intelligence in Education (AIED) conference
 
 2021 | Sub-reviewer for Society of Text & Discourse (ST&D) conference
+
 
 
 ## Awards
