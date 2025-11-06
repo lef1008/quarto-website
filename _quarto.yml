@@ -11,6 +11,8 @@ website:
       - about.qmd
       - href: publications.qmd
       - href: resources.qmd
+        text: Resources
+
 
 
 

@@ -2,13 +2,20 @@
 title: "About"
 ---
 
+<style>
+strong, b {
+  font-family: "Arial", sans-serif !important;
+  font-weight: 700 !important;
+}
+</style>
+
 My overarching research interest relates to the dynamics of discourse-- how different aspects of language fluctuate over time. Basically, much of my research examines how linguistic properties in text or spoken discourse change across time.
 
-**Examples of discourse contexts I've researched:** groupchats between students in an ed tech platform, lyrics, Trader Joe's product reviews, books from Project Gutenberg, movie script dialogues, subreddit discussion, reflective/informal writing, interactions between strangers over Zoom, think-alouds produced during reading, and March Madness press conference transcripts
+**Examples of discourse contexts I've researched:** groupchats between students in an ed tech platform💻, lyrics🎶, Trader Joe's product reviews🥫, books from Project Gutenberg📚, movie script dialogues🎬, subreddit threads🧵, reflective/informal writing📔, interactions between strangers over Zoom👾, think-alouds produced during reading💭, and March Madness press conference transcripts🏀
 
-**Examples of linguistic features I've examined:** sentiment, cohesion, swearing, reflection/metacognition, sourcing, topics/semantic spaces, academic language, bursts/pauses in keystrokes, gendered language, turn-taking
+**Examples of linguistic features I've examined:** sentiment🥳, cohesion🧩, swearing🤬, reflection/metacognition🧠, sourcingℹ️, topics/semantic spaces💬, academic language🏫, bursts/pauses in keystrokes⌨️, gendered language♀♂, turn-taking🗣️
 
-
+<br>
 
 ## Education
 
